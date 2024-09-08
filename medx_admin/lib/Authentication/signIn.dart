@@ -23,7 +23,7 @@ class _SignInState extends State<SignIn> {
         appBar: AppBar(
           title: Text(
             'Login',
-            style: TextStyle(fontSize: 17, fontWeight: FontWeight.bold),
+            style: TextStyle(fontSize: 25, fontWeight: FontWeight.bold),
           ),
           centerTitle: true,
         ),
@@ -45,7 +45,7 @@ class _SignInState extends State<SignIn> {
                           email = val;
                         },
                         decoration: InputDecoration(
-                            labelText: "Email",
+                            labelText: "Enter your Email ",
                             prefixIcon: Icon(Icons.email_outlined),
                             border: OutlineInputBorder(
                                 borderRadius: BorderRadius.circular(15))),
@@ -59,7 +59,7 @@ class _SignInState extends State<SignIn> {
                         },
                         obscureText: _obscureText,
                         decoration: InputDecoration(
-                            labelText: "Password",
+                            labelText: "Enter your Password",
                             suffixIcon: _obscureText
                                 ? IconButton(
                                     icon: Icon(Icons.visibility_off),

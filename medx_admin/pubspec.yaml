@@ -79,6 +79,7 @@ flutter:
   assets:
     - assets/signin.png
     - assets/signup.png
+    - medx_admin/assets/pharmacy-shop-3d-model-low-poly-fbx-blend.jpg
 
   #   - images/a_dot_ham.jpeg
 
