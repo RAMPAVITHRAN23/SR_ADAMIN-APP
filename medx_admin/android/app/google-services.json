@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "445115081735",
+    "project_id": "medx-39adb",
+    "storage_bucket": "medx-39adb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445115081735:android:de1be255355947972ab6a2",
+        "android_client_info": {
+          "package_name": "com.example.medx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuSCPtcoRRbxCAIDkUPUqDWc9o7QMeupw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445115081735:android:e967fa479d1e10cc2ab6a2",
+        "android_client_info": {
+          "package_name": "com.example.medx_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuSCPtcoRRbxCAIDkUPUqDWc9o7QMeupw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
